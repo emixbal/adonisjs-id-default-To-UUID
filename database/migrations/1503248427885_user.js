@@ -11,7 +11,7 @@ class UserSchema extends Schema {
       table.string('email', 254).notNullable().unique()
       table.string('password', 60).notNullable()
       table.string('verification_token')
-      table.boolean('is_verified').defaultTo(true)
+      table.boolean('is_verified').defaultTo(false)
       table.date('birthday').notNullable()
       table.string('phone_number', 14).notNullable()
       table.text('address').notNullable()
