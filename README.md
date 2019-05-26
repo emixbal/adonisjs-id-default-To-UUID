@@ -1,3 +1,5 @@
+I added UUID in user migration and seted up auto generate UUID in user model
+
 # Adonis fullstack application
 
 This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
