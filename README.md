@@ -1,4 +1,4 @@
-I added UUID table in user migration and cretae hook in user model to generate uuid automatically before model creation
+I added UUID table in user migration and cretae hook in user model to generate uuid automatically before object creation
 
 ### Migrations
 
