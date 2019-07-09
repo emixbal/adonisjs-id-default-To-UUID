@@ -1,4 +1,6 @@
-I added UUID table in user migration and cretae hook in user model to generate uuid automatically before object creation
+###adonisjs default To UUID
+
+I added UUID field in user migration and cretae hook in user model to generate uuid automatically while object creation.
 
 ### Migrations
 
